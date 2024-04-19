@@ -1,31 +1,35 @@
-## 👋😊  Greetings.
+## 👋😊  About Me.
 
-### Hi there, I'm Peter
+### Hi there, I'm Peter k. Tsitsi
 
 A software engineer and designer🤓🖊️.<br>
 Based in North West, South Africa📍.</br>
+And I've Working as A Developer since 2019📅. </br>
+
 ### 🧑‍🎓Education:
-+ Graphic And Web Design
++ <strong>Graphic And Web Design (2018-2019) at Boston City College</strong>
   * Description
-+ UI/UX Design
++ <strong>UI/UX Design</strong>
   * Description
-+ Database Engineering
++ <strong>Database Engineering</strong>
+  * Description
++ <strong>Data Analysis</strong>
   * Description
 ### 👷‍♂️Experience:
-+ Graphic And Web Design
++ <strong>Graphic And Web Design</strong>
   * Description
 
 ### 💻 Tech Stack:
-+ Programming Languages </br>
++ Programming Languages:</strong> </br>
  <img src="https://skillicons.dev/icons?i=py,html,js,ts,cs,java,cpp,mysql" />
   
-+ Technologies
-  * Design </br>
++ <strong>Technologies:</strong>
+  * <strong>Design:</strong> </br>
   <img src="https://skillicons.dev/icons?i=ps,figma,webflow,ae" /> </br>
-  * Development  </br>
+  * <strong>Development:</strong>  </br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,sqlite,mongodb,dotnet,firebase" /> </br>
   <img src="https://skillicons.dev/icons?i=django,cloudflare,azure,aws" /> </br>
-  * Productivity </br>
+  * <strong>Productivity:</strong> </br>
   <img src="https://skillicons.dev/icons?i=notion,github" /> </br>
  
 ## 🧑‍💻 Projects and Case Studies
