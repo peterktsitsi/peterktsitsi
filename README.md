@@ -1,23 +1,18 @@
-## 👋😊  About Me.
+## 👋😊  Hi there.
 
-### Hi there, I'm Peter k. Tsitsi
-
-A software engineer and designer🤓🖊️.<br>
-Based in North West, South Africa📍.</br>
+### I'm Peter k. Tsitsi.
 
 
-### 🧑‍🎓Education:
-+ <strong>Graphic And Web Design (2018-2019) at Boston City College</strong>
-  * Description
-+ <strong>UI/UX Design</strong>
-  * Description
-+ <strong>Database Engineering</strong>
-  * Description
-+ <strong>Data Analysis</strong>
-  * Description
-### 👷‍♂️Experience:
-+ <strong>Graphic And Web Design</strong>
-  * Description
+I design, develop, deploy and maintain software for people and businesses🤓🖊️.<br>
+I'm currently based in North West, South Africa📍.</br> 
+Get in touch with me: https://mail.google.com/Kpetertsitsi@gmail.com .<br>
+or send me text on whatsApp: +27 631830192
+
+
+### Currently Working on.
++ Updating my Github, clearing old repos and starting new ones to uploaad my current projects.
++ I'm working on an Astro portfolio based on the AstroSphere Template.
+Project link:
 
 ### 💻 Tech Stack:
 + Programming Languages:</strong> </br>
@@ -31,14 +26,7 @@ Based in North West, South Africa📍.</br>
   <img src="https://skillicons.dev/icons?i=django,cloudflare,azure,aws" /> </br>
   * <strong>Productivity:</strong> </br>
   <img src="https://skillicons.dev/icons?i=notion,github" /> </br>
- 
-## 🧑‍💻 Projects and Case Studies
 
-### 1. Porfolio.
-This is my developer portfolio, after many years of using Github as a developer portfolio and then moving to a wix template, I think it's time i created something a bit more professional.
-Using NextJs, Tailwind and other modern web dev technologoies, I made this.
-
-### 2. SASSA Project.
 
 
 
