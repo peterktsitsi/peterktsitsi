@@ -5,13 +5,13 @@
 
 I design, develop, deploy and maintain software for people and businesses🤓🖊️.<br>
 I'm currently based in North West, South Africa📍.</br> 
-Get in touch with me: https://mail.google.com/Kpetertsitsi@gmail.com .<br>
+Get in touch with me:<br> https://mail.google.com/Kpetertsitsi@gmail.com .
 or send me text on whatsApp: +27 631830192
 
 
 ### Currently Working on.
 + Updating my Github, clearing old repos and starting new ones to uploaad my current projects.
-+ I'm working on an Astro portfolio based on the AstroSphere Template.
++ I'm working on an Astro portfolio based on the AstroSphere Template. <br>
 Project link:
 
 ### 💻 Tech Stack:
