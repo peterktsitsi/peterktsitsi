@@ -5,7 +5,7 @@
 
 I design, develop, deploy and maintain software for people and businesses🤓🖊️.<br>
 I'm currently based in North West, South Africa📍.</br> 
-Get in touch with me:<br> https://mail.google.com/Kpetertsitsi@gmail.com .
+Get in touch with me:<br> https://mail.google.com/Kpetertsitsi@gmail.com. <br>
 or send me text on whatsApp: +27 631830192
 
 
