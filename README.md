@@ -4,7 +4,7 @@
 
 A software engineer and designer🤓🖊️.<br>
 Based in North West, South Africa📍.</br>
-And I've Working as A Developer since 2019📅. </br>
+
 
 ### 🧑‍🎓Education:
 + <strong>Graphic And Web Design (2018-2019) at Boston City College</strong>
