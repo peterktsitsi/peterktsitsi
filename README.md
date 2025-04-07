@@ -15,7 +15,7 @@ or send me text on whatsApp: +27 631830192
 + Creating a markdown course and cheat sheet.
 + Updating my Github, clearing old repos and starting new ones to upload my current projects.
 + I'm working on an Astro portfolio based on the AstroSphere Template. <br>
-Project link: [https://github.com/peterktsitsi/Astro-Personal-Site]
+Project link: [https://github.com/peterktsitsi/portfolio]
 + Precast Walls online store Template. <br>
   Project link: [https://github.com/peterktsitsi/Ecommerce-Template]
 + Mapping solutions and their commercial applications. <br>
