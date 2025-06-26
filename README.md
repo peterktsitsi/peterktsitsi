@@ -33,7 +33,7 @@ Project link: [https://github.com/peterktsitsi/peterktsitsi.github.io]
    the tools are placed in order of frequency of use.
   - **_Webflow_**, visual development enviroment for website. my webflow:
   - **_JavaScript_** and **_Python_**. i'm farmiliar with related web technologies like **_ajax_**, **_react_** and **_jQuery_** and for **_Python_** desktop automation and **_Django_**.
-  - **_Asp.net_** for windows cmd-line programs and windows applications in **_C#_**.
+  - **_Asp.net_** for web based programs and windows applications in **_C#_**.
   - **_C++_** and **_Mql5_** for algorythm testing.
  + #### Demployment and Maintance.
    - Creating a maintance schedule and documenting the deployment platform and its litigations.
