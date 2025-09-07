@@ -11,15 +11,18 @@ or send me text on whatsApp: +27 631830192
 
 ### Projects I'm Currently Working on.
 
-+ Migrating my projects from Obsidian to github.
-+ Creating a markdown course and cheat sheet.
-+ Updating my Github, clearing old repos and starting new ones to upload my current projects.
-+ I'm working on an Astro portfolio based on the AstroSphere Template. <br>
-Project link: [https://github.com/peterktsitsi/peterktsitsi.github.io]
-+ Precast Walls online store Template. <br>
-  Project link: [https://github.com/peterktsitsi/Ecommerce-Template]
++ I am trying to become a version control user of decent compitance... This is not going well.<br>
++ Creating an Information Technology and Design Course.<br>
 + Mapping solutions and their commercial applications. <br>
-  Project link: [https://github.com/peterktsitsi/Mapping-Solution]
++ Researching Business strategy for web development, Design and Branading.<br>
+
+### My website? 
+Well here it is... [http://peterktsitsi.github.io]
+
+Should you feel the need to contact me about the projects above... consult the website I probably have project documentation or....<br>
+text me, or call...  Don't call, text.<br>
+*oh yeah I am also trying to pitch a coding bootcamp for my community... it's a work in progess*
+
 + Mogono Youth Center Art and Programming bootcamp. <br>
   Project link: [https://github.com/peterktsitsi/Youth-Center-Coding-Bootcamp.]
 
