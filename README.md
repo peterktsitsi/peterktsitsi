@@ -21,26 +21,7 @@ Well here it is... [http://peterktsitsi.github.io]
 
 Should you feel the need to contact me about the projects above... consult the website I probably have project documentation or....<br>
 text me, or call...  Don't call, text.<br>
-*oh yeah I am also trying to pitch a coding bootcamp for my community... it's a work in progess*
-
-+ Mogono Youth Center Art and Programming bootcamp. <br>
-  Project link: [https://github.com/peterktsitsi/Youth-Center-Coding-Bootcamp.]
 
 ---
 
-### 💻 Work Flow and Tools:
-
-+ #### Design, Prototyping and Documation.
-  I use **_Penpot_** and **_Figma_** to create design files for projects, and Github to for documantation.
-+ #### Development and Programming.
-   the tools are placed in order of frequency of use.
-  - **_Webflow_**, visual development enviroment for website. my webflow:
-  - **_JavaScript_** and **_Python_**. i'm farmiliar with related web technologies like **_ajax_**, **_react_** and **_jQuery_** and for **_Python_** desktop automation and **_Django_**.
-  - **_Asp.net_** for web based programs and windows applications in **_C#_**.
-  - **_C++_** and **_Mql5_** for algorythm testing.
- + #### Demployment and Maintance.
-   - Creating a maintance schedule and documenting the deployment platform and its litigations.
-   - Deploy on **_GitHub_** for seemless version control.
-
----
 
