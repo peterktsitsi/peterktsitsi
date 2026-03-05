@@ -2,19 +2,19 @@
 
 ### I'm Peter k. Tsitsi.
 
-I design, develop, deploy and maintain software for people and businesses🤓🖊️.<br>
+An Information Systems Developer and Designer🤓🖊️.<br>
+I simplify information, into presentation and I build systems that collect and process data.<br>
 I'm currently based in North West, South Africa📍.</br> 
 Get in touch with me: https://mail.google.com/Kpetertsitsi@gmail.com. <br>
-or send me text on whatsApp: +27 631830192
+or send me text on whatsApp: 
 
 ---
 
 ### Projects I'm Currently Working on.
 
-+ I am trying to become a version control user of decent compitance... This is not going well.<br>
-+ Creating an Information Technology and Design Course.<br>
-+ Mapping solutions and their commercial applications. <br>
-+ Researching Business strategy for web development, Design and Branading.<br>
++ Information systems development and design course.
++ Orbit College Demo Brand refresh.
++ Project 52
 
 ### My website? 
 Well here it is... [http://peterktsitsi.github.io]
