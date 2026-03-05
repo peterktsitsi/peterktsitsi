@@ -6,13 +6,13 @@ An Information Systems Developer and Designer🤓🖊️.<br>
 I simplify information, into presentation and I build systems that collect and process data.<br>
 I'm currently based in North West, South Africa📍.</br> 
 Get in touch with me: https://mail.google.com/Kpetertsitsi@gmail.com. <br>
-or send me text on whatsApp: 
+or send me text on whatsApp: 81 254 3828
 
 ---
 
 ### Projects I'm Currently Working on.
 
-+ Information systems development and design course.
++ Web development and Information design course.
 + Orbit College Demo Brand refresh.
 + Project 52
 
