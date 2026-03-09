@@ -14,7 +14,8 @@ or send me text on whatsApp: +27 81 254 3828
 
 + Web development and Information design course.
 + Orbit College Demo Brand refresh.
-+ Project 52
++ Project 52.
++ Translating notes to blogs and projects.
 
 ### My website? 
 Well here it is... [http://peterktsitsi.github.io]
